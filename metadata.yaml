@@ -1,4 +1,5 @@
 _repo: Singoalla_50202
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Aho, Juhani
@@ -12,6 +13,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Juhani_Aho
     - http://fi.wikipedia.org/wiki/Juhani_Aho
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rydberg, Viktor
@@ -25,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3156
     wikipedia: http://en.wikipedia.org/wiki/Viktor_Rydberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50202#Singoalla
 gutenberg_issued: '2015-10-13'
 gutenberg_type: Text
 identifiers:
